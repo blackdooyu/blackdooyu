@@ -1,7 +1,10 @@
 ### 안녕하세요 백엔드 개발자 최민우입니다!👋
 
 ### skill
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+
 
 <!--
 **blackdooyu/blackdooyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
