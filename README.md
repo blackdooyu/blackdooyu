@@ -3,7 +3,8 @@
 ### skill
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjk741)](https://solved.ac/cjk741)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjk741">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=blackdooyu" height="165">
 
 
 <!--
