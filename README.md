@@ -1,7 +1,7 @@
 ### 안녕하세요 백엔드 개발자 최민우입니다!👋
 
 ### skill
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/Spring Data Jpa-6DB33F?style=for-the-badge&logo=&logoColor=white">
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjk741">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=blackdooyu" height="165">
